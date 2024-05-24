@@ -102,7 +102,7 @@ Extract the value `8162` (LeBron James points) in 2 different ways:
 - using names
 
 ```{r}
-
+#adding code to Q2
 ```
 
 
